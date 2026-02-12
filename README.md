@@ -1,2 +1,80 @@
 # CSCI111-bdhimes
 CSCI111 Spring 2026 semester repository
+| Name                | Value                                          |
+| :------------------ | :--------------------------------------------- |
+| **Course**          | CSCI111 - CS1: Foundations of Computer Science |
+| **Semester**        | Spring 2026                                    |
+| **Student Name**    | Ben Himes                                      |
+| **Mav Username**    | bdhimes                                        |
+| **GitHub Username** | Bdhimes41                                      |
+
+## Assignments
+
+### HW0-HelloCS
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | HelloCS                                                                           |
+| Description | Print Hello World in Dev Environment               |
+| Due Date    | 23-Jan-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                          |
+| Notes       | Prints desired outcome                              |
+
+### HW1-STD IO
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | STD IO                                                                        |
+| Description | Problem that teaches input and output.              |
+| Due Date    | 2-Feb-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                          |
+| Notes       | Completed  all tasks on ReadMe                              |
+
+### HW2-Math
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Math                                                                          |
+| Description | Finds the desired elements of a triangle given side lengths               |
+| Due Date    | 9-Feb-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                          |
+| Notes       | Completed all tasks on ReadMe                              |
+
+## Labs
+
+### Lab1-ASCII Art
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | ASCII Art                                                                          |
+| Description | Print ASCII art on console with developer info              |
+| Due Date    | 2-Feb-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                          |
+| Notes       | Prints desired outcome                              |
+
+### Lab2-Math
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Math                                                                         |
+| Description | Find desired values of a circle, alongside Kattis Problem               |
+| Due Date    | 9-Feb-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                          |
+| Notes       | Fixed all FixMes and completed the kattis problem                              |
+
+### Lab3-Library
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Library                                                                           |
+| Description | Find various math identities given a decimal number               |
+| Due Date    | 9-Feb-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                          |
+| Notes       | Finds all values, as well as the kattis completion                              |
+
