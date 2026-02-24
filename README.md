@@ -13,17 +13,18 @@ CSCI111 Spring 2026 semester repository
 | **GitHub Username** | Bdhimes41                                      |
 
 ## Assignments
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Conditionals lab                                                                           |
+| Description | Create a menu of options for functions with two numbers              |
+| Due Date    | 23-Feb-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                          |
+| Notes       | Prints desired outcomes from menu selection as well as Kattis problem solved                              |
+
 
 ### HW0-HelloCS
 
-| Name        | Value                                                                           |
-| :---------- | :------------------------------------------------------------------------------ |
-| Name        | HelloCS                                                                           |
-| Description | Print Hello World in Dev Environment               |
-| Due Date    | 23-Jan-2026                                                                      |
-| Status      | Complete                                                                        |
-| Self Grade  | 100/100                                                                          |
-| Notes       | Prints desired outcome                              |
 
 ### HW1-STD IO
 
