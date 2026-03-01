@@ -13,6 +13,17 @@ CSCI111 Spring 2026 semester repository
 | **GitHub Username** | Bdhimes41                                      |
 
 ## Assignments
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Loops Homework                                                                           |
+| Description | Create a guess the number game and solve fizzbuzz kattis problem             |
+| Due Date    | 26-Feb-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/210                                                                          |
+| Notes       | Did not do bonus keeping user in loop                             |
+
+
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
 | Name        | Conditionals lab                                                                           |
