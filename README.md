@@ -13,6 +13,14 @@ CSCI111 Spring 2026 semester repository
 | **GitHub Username** | Bdhimes41                                      |
 
 ## Assignments
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Loops Lab                                                                           |
+| Description | Create a program that prints desired shapes, and solve doggopher kattis problem             |
+| Due Date    | 2-Mar-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/200                                                                          |
+| Notes       | N/A                             |
 
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
