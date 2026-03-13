@@ -15,6 +15,15 @@ CSCI111 Spring 2026 semester repository
 ## Assignments
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
+| Name        | Homework6                                                                           |
+| Description | Solve kattis problem related to string functions          |
+| Due Date    | 12-Mar-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/200                                                                          |
+| Notes       | N/A                             |
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
 | Name        | Lab 7                                                                           |
 | Description | Create a program that practices functions and pointers, executing math functions, as well as kattis problem             |
 | Due Date    | 9-Mar-2026                                                                      |
