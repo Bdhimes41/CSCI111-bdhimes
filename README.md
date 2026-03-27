@@ -13,6 +13,17 @@ CSCI111 Spring 2026 semester repository
 | **GitHub Username** | Bdhimes41                                      |
 
 ## Assignments
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | HW 7 Arrays                                                                       |
+| Description | Solve kattis problems related to Arrays          |
+| Due Date    | 26-Mar-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/200                                                                          |
+| Notes       | N/A                             |
+
+
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
 | Name        | Lab 8 Strings                                                                       |
