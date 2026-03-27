@@ -15,6 +15,15 @@ CSCI111 Spring 2026 semester repository
 ## Assignments
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
+| Name        | Lab 8 Strings                                                                       |
+| Description | Solve kattis problems related to string operations          |
+| Due Date    | 13-Mar-2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/200                                                                          |
+| Notes       | N/A                             |
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
 | Name        | Homework6                                                                           |
 | Description | Solve kattis problem related to string functions          |
 | Due Date    | 12-Mar-2026                                                                      |
