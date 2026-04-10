@@ -13,6 +13,14 @@ CSCI111 Spring 2026 semester repository
 | **GitHub Username** | Bdhimes41                                      |
 
 ## Assignments
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | HW FileIO                                                                       |
+| Description | Create grades display using several different methods      |
+| Due Date    | 4/10/2026                                                                     |
+| Status      | Complete                                                                        |
+| Self Grade  | 120/100                                                                          |
+| Notes       | Did first bonus prompt, but did not do second one.                             |
 
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
