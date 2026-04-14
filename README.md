@@ -15,6 +15,15 @@ CSCI111 Spring 2026 semester repository
 ## Assignments
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
+| Name        | FileIO Lab                                                                    |
+| Description | Use input files to get specific output values        |
+| Due Date    | 4/13/2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 100/100                                                                        |
+| Notes       | Did not do bonus.                         |
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
 | Name        | HW FileIO                                                                       |
 | Description | Create grades display using several different methods      |
 | Due Date    | 4/10/2026                                                                     |
