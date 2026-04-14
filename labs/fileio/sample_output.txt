@@ -1,0 +1,6 @@
+Count: 0
+Minimum: 332661072
+Maximum: 332661072
+Mean: nan
+Range: 0
+Median: 426431360.00
