@@ -15,6 +15,15 @@ CSCI111 Spring 2026 semester repository
 ## Assignments
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
+| Name        | Arrays Lab                                                                 |
+| Description | Use Arrays to display data about numbers and kattis problem.       |
+| Due Date    | 4/20/2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/200                                                                        |
+| Notes       | N/A                         |
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
 | Name        | FileIO Lab                                                                    |
 | Description | Use input files to get specific output values        |
 | Due Date    | 4/13/2026                                                                      |
