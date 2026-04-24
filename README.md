@@ -15,6 +15,15 @@ CSCI111 Spring 2026 semester repository
 ## Assignments
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
+| Name        | Maps Homework                                                                 |
+| Description | Solve the two kattis problems - A new alphabet and Babelfish       |
+| Due Date    | 4/23/2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/200                                                                        |
+| Notes       | N/A                         |
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
 | Name        | Arrays Lab                                                                 |
 | Description | Use Arrays to display data about numbers and kattis problem.       |
 | Due Date    | 4/20/2026                                                                      |
