@@ -1,0 +1,8 @@
+hello hola
+goodbye adios
+thanks gracias
+
+hola
+gracias
+bonjour
+adios

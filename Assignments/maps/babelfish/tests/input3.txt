@@ -1,0 +1,10 @@
+red rojo
+blue azul
+green verde
+yellow amarillo
+
+rojo
+azul
+verde
+negro
+amarillo
