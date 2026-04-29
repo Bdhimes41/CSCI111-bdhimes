@@ -13,6 +13,16 @@ CSCI111 Spring 2026 semester repository
 | **GitHub Username** | Bdhimes41                                      |
 
 ## Assignments
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
+| Name        | Vectors Lab                                                            |
+| Description | Solve the foxsays kattis problem and make a number conversion program     |
+| Due Date    | 4/27/2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 180/200                                                                        |
+| Notes       | Did not do test files for kattis                         |
+
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
 | Name        | Maps Homework                                                                 |
