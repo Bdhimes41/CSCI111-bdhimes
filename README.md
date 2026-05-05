@@ -16,6 +16,15 @@ CSCI111 Spring 2026 semester repository
 
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
+| Name        | Lab 12 - Maps                                                           |
+| Description | Solve seven wonders and morse code palindromes kattis problems    |
+| Due Date    | 5/4/2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 200/200                                                                        |
+| Notes       | N/A                     |
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
 | Name        | Vectors Lab                                                            |
 | Description | Solve the foxsays kattis problem and make a number conversion program     |
 | Due Date    | 4/27/2026                                                                      |
