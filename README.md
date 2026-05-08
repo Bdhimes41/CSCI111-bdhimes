@@ -16,6 +16,15 @@ CSCI111 Spring 2026 semester repository
 
 | Name        | Value                                                                           |
 | :---------- | :------------------------------------------------------------------------------ |
+| Name        | Final Project                                                         |
+| Description | Create a restaraunt reservation system that can edit, save, and load reservations.    |
+| Due Date    | 5/4/2026                                                                      |
+| Status      | Complete                                                                        |
+| Self Grade  | 95/100                                                                        |
+| Notes       | Started with trying to write comments, but didnt keep up|
+
+| Name        | Value                                                                           |
+| :---------- | :------------------------------------------------------------------------------ |
 | Name        | Lab 12 - Maps                                                           |
 | Description | Solve seven wonders and morse code palindromes kattis problems    |
 | Due Date    | 5/4/2026                                                                      |
